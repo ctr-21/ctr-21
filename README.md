@@ -1,5 +1,10 @@
 <h1>Hi, I'm Cooper! <br/></h1>
 
+<h2>About Me:</h2>
+I am currently a Senior at <i>The University of Akron</i> pursuing a degree in <i>CIS: Cybersecurity</i>. 
+I am passionate about technology and systems, particularly how they operate, can be breached, and secured.
+Take some time to look through my various projects, certifications, and other information regarding my interests and experiences within the cyber world!
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>HTML Programming Assignment</b>

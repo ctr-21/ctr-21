@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cooper! <br/></h1>
+<h1>Hi, I'm Cooper!<br/></h1>
 
 <h2>About Me:</h2>
 I am currently a Senior at <i>The University of Akron</i> pursuing a degree in <i>CIS: Cybersecurity</i>. 

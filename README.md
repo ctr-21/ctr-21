@@ -7,5 +7,5 @@
 
 <h2>👨‍💻 Cybersecurity Certificates:</h2>
 
-- <b>Google Cybersecurity Professional Certificate | Anticipated August 2024
+- <b>Google Cybersecurity Professional Certificate | Completed July 12th, 2024
   - [GCP Certificate](https://github.com/ctr-21/Professional-Certificates)

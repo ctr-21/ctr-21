@@ -9,6 +9,7 @@ Take some time to look through my various projects, certifications, and other in
 
 - <b>HTML Programming Assignment</b>
   - [HTML-Webpage](https://github.com/ctr-21/HTML-Webpage/tree/main)
+- <b>Wireshark Project</b>
   - [Wireshark-Analysis](https://github.com/ctr-21/Wireshark-Analysis)
 
 <h2>💼 Cybersecurity Certificates:</h2>

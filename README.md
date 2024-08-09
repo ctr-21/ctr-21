@@ -1,6 +1,5 @@
 <h1>Hi, I'm Cooper!<br/></h1>
-<a href="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/><img src="https://www.linkedin.com/in/ctr21"/></a>
-
+<a href="https://www.linkedin.com/in/ctr21"/><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <h2>About Me:</h2>
 I am currently a Senior at <i>The University of Akron</i> pursuing a degree in <i>CIS: Cybersecurity</i>. 
 I am passionate about technology and systems, particularly how they operate, can be breached, and secured.

@@ -13,7 +13,8 @@ Take some time to look through my various projects, certifications, and other in
   - [HTML-Webpage](https://github.com/ctr-21/HTML-Webpage/tree/main)
 - <b>Wireshark Project</b>
   - [Wireshark-Analysis](https://github.com/ctr-21/Wireshark-Analysis)
-
+- <b>Threat Hunting Framework Development: Securing Hybrid Networks using Machine Learning</b>
+  - [THFD: SHNML](https://github.com/ctr-21/THFD-SHNML)
 <h2>💼 Cybersecurity Certificates:</h2>
 
 - <b>Google Cybersecurity Professional Certificate | Completed July 12th, 2024

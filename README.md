@@ -16,5 +16,7 @@ Take some time to look through my various projects, certifications, and other in
   - [THFD: SHNML](https://github.com/ctr-21/THFD-SHNML)
 <h2>💼 Cybersecurity Certificates:</h2>
 
-- <b>Google Cybersecurity Professional Certificate | Completed July 12th, 2024
-  - [GCP Certificate](https://github.com/ctr-21/Professional-Certificates)
+- <b>[CompTIA Network+](https://www.credly.com/badges/5b05adb4-e767-4ab3-aa5b-658e84100d7f/public_url)
+- <b>[CompTIA Security+](https://www.credly.com/badges/fd7332a7-fc63-406a-ac21-9d6372b2fa8f/public_url)
+- <b>[ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/1a3fd9f8-ee2b-4184-9af5-ae77598a177a/public_url)
+- <b>[Google Cybersecurity Professional Certificate](https://github.com/ctr-21/Professional-Certificates)

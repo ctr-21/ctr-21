@@ -2,7 +2,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/ctr21"/><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a></div>
 <div align="center"><h2>About Me</h2>
-I am currently a Senior at <i>The University of Akron</i> pursuing a degree in <i>CIS: Cybersecurity</i>. 
+I am a graduate of <b><i>The University of Akron</i></b> with a B.S degree in <b><i>Computer Information Systems: Cybersecurity</i></b>. 
 I am passionate about technology and systems, particularly how they operate, can be breached, and secured.
 Take some time to look through my various projects, certifications, and other information regarding my interests and experiences within the cyber world!</div>
 
